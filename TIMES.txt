@@ -1,0 +1,8 @@
+0:00 - Intro
+0:05 - Why TypeScript with Express
+0:25 - Project Initialization
+1:20 - Configuring TypeScript
+3:40 - Creating an Express App with TypeScript
+4:18 - package.json Scripts
+6:14 - Project Demonstration
+6:36 - Outro
